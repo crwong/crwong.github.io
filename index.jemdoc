@@ -1,0 +1,57 @@
+# jemdoc: addcss{css/main_jemdoc.css}
+= Christopher Wong
+
+~~~
+{}{img_left}{img/crwong.jpg}{crwong}{250}{}{}
+Christopher Wong\n
+M.S. Candidate\n
+[http://cs.stanford.edu/ Computer Science Department]\n
+[http://www.stanford.edu/ Stanford University]\n
+\n
+Email: crwong \[at\] stanford (dot) edu\n
+[doc/crwong_resume.pdf Resume] (as of 6/2015)
+{{
+  <div class="icon-container">
+    <a target="_blank" href="https://www.linkedin.com/in/christopherwong2">
+      <img class="icon" src="img/linkedin.png">
+    </a>
+  </div>
+  <div class="icon-container">
+    <a target="_blank" href="https://github.com/crwong">
+      <img class="icon" src="img/github.png">
+    </a>
+  </div>
+}}
+
+~~~
+
+== Education
+- M.S., [http://cs.stanford.edu/ Computer Science] (Artificial Intelligence), [http://www.stanford.edu/ Stanford University], 2014 - 2015 (/expected/)
+- B.S., [http://cs.stanford.edu/ Computer Science] (Systems), [http://www.stanford.edu/ Stanford University], 2011 - 2015
+
+== Teaching
+- [http://cs103.stanford.edu/ CS 103] (Mathematical Foundations of Computing) Teaching Assistant, 2014-2015 Spring
+- [http://cs106b.stanford.edu/ CS 106B] (Programming Abstractions) Section Leader, 2013-2014 Fall, Winter
+- [http://cs106a.stanford.edu/ CS 106A] (Programming Methodology) Section Leader, 2012-2013 Fall, Winter
+
+== Work
+- Software Engineering Intern at [http://rubrik.com/ Rubrik, Inc.], 2015 Summer
+- Software Engineering Intern at [https://www.google.com/ Google Inc.], 2014 Summer
+- Software Engineering Intern at [https://www.linkedin.com/ LinkedIn Corp.], 2013 Summer
+- Software Developer Intern at [http://www.resolvesys.com/ Resolve Systems], 2012 Summer
+
+== Projects
+- [http://snap.stanford.edu/snapvx/ SnapVX], a network-based convex optimization solver combining the capabilities of [http://snap.stanford.edu/snappy/ Snap.py] and [http://www.cvxpy.org/ CVXPY].
+- [http://web.stanford.edu/~crwong/cfg/grammar.html CFG Developer], a tool to develop and test context-free grammars.
+
+== Miscellaneous
+- [http://taiko.stanford.edu Stanford Taiko]: Performing member (2011-2015), Artistic Director (2014-15), and Performance Director (2012-2014). Performance videos [https://www.youtube.com/user/StanfordTaiko here].
+- Hobbies: swimming, watching college football and basketball, music.
+
+{{
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-64195937-1', 'auto');
+ga('send', 'pageview');
+</script>
+}}
