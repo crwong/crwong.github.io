@@ -4,12 +4,14 @@
 ~~~
 {}{img_left}{img/crwong.jpg}{crwong}{250}{}{}
 Christopher Wong\n
-M.S. Candidate\n
-[http://cs.stanford.edu/ Computer Science Department]\n
+Software Engineer at [http://rubrik.com/ Rubrik, Inc.]\n
+\n
+M.S. in [http://cs.stanford.edu Computer Science] (Artificial Intelligence)\n
+B.S. in [http://cs.stanford.edu Computer Science] (Systems)\n
 [http://www.stanford.edu/ Stanford University]\n
 \n
-Email: crwong \[at\] stanford (dot) edu\n
-[doc/crwong_resume.pdf Resume] (as of 6/2015)
+Email: chriswong205 \[at\] gmail (dot) com\n
+[doc/crwong_resume.pdf Resume] (as of 1/2016)
 {{
   <div class="icon-container">
     <a target="_blank" href="https://www.linkedin.com/in/christopherwong2">
@@ -26,23 +28,24 @@ Email: crwong \[at\] stanford (dot) edu\n
 ~~~
 
 == Education
-- M.S., [http://cs.stanford.edu/ Computer Science] (Artificial Intelligence), [http://www.stanford.edu/ Stanford University], 2014 - 2015 (/expected/)
+- M.S., [http://cs.stanford.edu/ Computer Science] (Artificial Intelligence), [http://www.stanford.edu/ Stanford University], 2014 - 2015
 - B.S., [http://cs.stanford.edu/ Computer Science] (Systems), [http://www.stanford.edu/ Stanford University], 2011 - 2015
+
+== Work
+- Software Engineer at [http://rubrik.com/ Rubrik, Inc.], Present
+- Software Engineering Intern at [http://rubrik.com/ Rubrik, Inc.], 2015 Summer, Fall
+- Software Engineering Intern at [https://www.google.com/ Google Inc.], 2014 Summer
+- Software Engineering Intern at [https://www.linkedin.com/ LinkedIn Corp.], 2013 Summer
+- Software Developer Intern at [http://www.resolvesys.com/ Resolve Systems], 2012 Summer
 
 == Teaching
 - [http://cs103.stanford.edu/ CS 103] (Mathematical Foundations of Computing) Teaching Assistant, 2014-2015 Spring
 - [http://cs106b.stanford.edu/ CS 106B] (Programming Abstractions) Section Leader, 2013-2014 Fall, Winter
 - [http://cs106a.stanford.edu/ CS 106A] (Programming Methodology) Section Leader, 2012-2013 Fall, Winter
 
-== Work
-- Software Engineering Intern at [http://rubrik.com/ Rubrik, Inc.], 2015 Summer
-- Software Engineering Intern at [https://www.google.com/ Google Inc.], 2014 Summer
-- Software Engineering Intern at [https://www.linkedin.com/ LinkedIn Corp.], 2013 Summer
-- Software Developer Intern at [http://www.resolvesys.com/ Resolve Systems], 2012 Summer
-
 == Projects
 - [http://snap.stanford.edu/snapvx/ SnapVX], a network-based convex optimization solver combining the capabilities of [http://snap.stanford.edu/snappy/ Snap.py] and [http://www.cvxpy.org/ CVXPY].
-- [http://web.stanford.edu/~crwong/cfg/grammar.html CFG Developer], a tool to develop and test context-free grammars.
+- [https://github.com/crwong/cfg-developer CFG Developer], a tool to develop and test context-free grammars.
 
 == Miscellaneous
 - [http://taiko.stanford.edu Stanford Taiko]: Performing member (2011-2015), Artistic Director (2014-15), and Performance Director (2012-2014). Performance videos [https://www.youtube.com/user/StanfordTaiko here].
